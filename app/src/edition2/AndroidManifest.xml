@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.clj.variantsdemo">
+
+    <application>
+
+        <activity
+            android:name=".PublicActivity1"
+            android:screenOrientation="portrait" />
+
+    </application>
+
+</manifest>
