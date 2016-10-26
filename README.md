@@ -12,6 +12,8 @@
 - 不同版本包名不同。
 
 > 解决方案：Android Studio中使用Gradle编译多种apk包依靠productFlavors功能实现。
+
+
 ***
 ###步骤
 
